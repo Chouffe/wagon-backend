@@ -38,7 +38,7 @@
 
 (test-perfs batched-data-stream-computation 10 1000000)
 
-;Output=> O (n) in time; constant space
+;Output=> O (n) in time;
 ;n:  10
 ;"Elapsed time: 13.077821 msecs"
 ;-----------
